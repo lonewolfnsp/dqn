@@ -1,4 +1,4 @@
-# rl
+ # Reinforcement Learning: Deep Q Network
 
 This contain work on reinforcement learning using deep Q learning, using PyTorch. 
 There are 3 gym tasks being solved:
