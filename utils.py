@@ -44,6 +44,7 @@ def getQAction(dqnModel, state, device):
 
 def runDQNAgent(dqnModel, env, device, max_step=-1, fps=25):
     state=env.reset()
+    state=state[0]
     rewards=0.  
     dqnModel.eval()   
     breakout= max_step>-1

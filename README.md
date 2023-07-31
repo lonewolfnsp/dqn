@@ -1,5 +1,4 @@
- # Reinforcement Learning: Deep Q Network
-
+# Reinforcement learning
 This contain work on reinforcement learning using deep Q learning, using PyTorch. 
 There are 3 gym tasks being solved:
 1. CartPole: try to balance a pole vertyically by moving left and right
